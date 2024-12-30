@@ -1,7 +1,5 @@
 # SequenceAnalyzer
 
-### **README.txt**
-
 #### **Program Title**  
 **RNA to Protein Sequence Translator**
 
